@@ -1,1 +1,1 @@
-# AGI Native OS
+# .github
